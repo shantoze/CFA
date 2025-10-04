@@ -19,3 +19,37 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+------------------------------------------------------------
+
+This distribution includes prebuilt binaries from the following open-source projects:
+
+CMake
+- License: BSD 3-Clause License
+- Copyright: © 2000–2025 Kitware, Inc.
+- License details: https://cmake.org/licensing/
+
+GNU Make
+- License: GNU General Public License v3.0 (GPLv3)
+- Copyright: © Free Software Foundation, Inc.
+- Source code: https://www.gnu.org/software/make/
+- GPLv3 full text: https://www.gnu.org/licenses/gpl-3.0.html
+
+Ninja Build
+- License: Apache License 2.0
+- Copyright: © 2011 Evan Martin
+- License details: https://www.apache.org/licenses/LICENSE-2.0
+
+OpenSSL
+- License: Apache License 2.0 and OpenSSL License
+- Copyright: © 1998–2025 The OpenSSL Project Authors
+- License details: https://www.openssl.org/source/license.html
+
+------------------------------------------------------------
+
+Notes:
+- This repository primarily distributes prebuilt binaries compiled from open-source software.
+- All original source code remains under their respective licenses, as linked above.
+- The MIT License applies only to project scripts, build configurations, and any modifications made by shantoze.
+
+END OF LICENSE
