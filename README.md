@@ -1,6 +1,14 @@
 # CFA
 CMake for Android
 
+![CMake](https://img.shields.io/badge/CMake-4.1.2-blue?logo=cmake)
+![Ninja](https://img.shields.io/badge/Ninja-1.13.1-orange)
+![GNU Make](https://img.shields.io/badge/Make-4.4.1-green?logo=gnu)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-3.5.3-lightgrey?logo=openssl)
+![ℹ️](https://img.shields.io/github/downloads/shantoze/CFA/total?label=ℹ️)
+
+
+
 
 ## Credits for source
 - [**CMake**](https://github.com/Kitware/CMake) – Kitware  
